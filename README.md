@@ -22,5 +22,5 @@ To get started, simply clone this repository and start solving the problems in y
 ### Progress 
 
 ## Resources
-
+1. [Blind 75 tutorials from NeetCode.](https://neetcode.io/practice)
 
